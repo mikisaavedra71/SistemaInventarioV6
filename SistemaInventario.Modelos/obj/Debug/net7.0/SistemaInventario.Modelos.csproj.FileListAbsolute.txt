@@ -1,0 +1,15 @@
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
