@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xORO/0BzzpD0Eap+ElCiRiYOuukG7yBgd6E81FAHQSQ=",
+  "Hash": "8k7CdqnRlzV5ij1l9eSfkvTGa6Y++yWOfF9k1O22iRM=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

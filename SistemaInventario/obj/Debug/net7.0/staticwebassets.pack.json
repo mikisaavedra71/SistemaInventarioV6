@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
+      "PackagePath": "staticwebassets\\js\\bodega.js"
+    },
+    {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

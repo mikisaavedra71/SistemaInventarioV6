@@ -34,9 +34,25 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             return await dbSet.FindAsync(id); // select * from (solo por Id)
         }
 
-        Task<T> IRepositorio<T>.ObtenerPrimero(Expression<Func<T, bool>> filtro, string incluirPropiedades, bool isTracking)
+        public async Task<T> ObtenerPrimero(Expression<Func<T, bool>> filtro, string incluirPropiedades, bool isTracking)
         {
-            throw new NotImplementedException();
+            IQueryable<T> query = dbSet;
+            if (filtro != null)
+            {
+                query = query.Where(filtro);  // select /* from where ....
+            }
+            if (incluirPropiedades != null)
+            {
+                foreach (var incluitProp in incluirPropiedades.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(incluitProp); //ejemplo Categoria,Marca
+                }
+            }
+            if (!isTracking)
+            {
+                query = query.AsNoTracking();
+            }
+            return await query.FirstOrDefaultAsync();
         }
 
         public async Task<IEnumerable<T>> ObtenerTodos(Expression<Func<T, bool>> filtro, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy, string incluirPropiedades, bool isTracking)
@@ -44,7 +60,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             IQueryable<T> query = dbSet;
             if (filtro != null)
             {
-                query = query.Where(filtro);
+                query = query.Where(filtro); // select /* from where ....
             }
             if(incluirPropiedades != null)
             {
@@ -66,12 +82,12 @@ namespace SistemaInventario.AccesoDatos.Repositorio
 
         void IRepositorio<T>.Remover(T entidad)
         {
-            throw new NotImplementedException();
+            dbSet.Remove(entidad);
         }
 
         void IRepositorio<T>.RemoverRango(IEnumerable<T> entidad)
         {
-            throw new NotImplementedException();
+            dbSet.RemoveRange(entidad);
         }
     }
 }
