@@ -21,8 +21,24 @@
       "PackagePath": "staticwebassets\\imagenes\\icono.png"
     },
     {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\05085523-3e7d-45fc-93e5-308506277123.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\05085523-3e7d-45fc-93e5-308506277123.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\08a7d9ff-d1b6-4c7c-956c-40fb86326478.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\08a7d9ff-d1b6-4c7c-956c-40fb86326478.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\57c6299e-5b52-4149-a064-4542798a81a8.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\57c6299e-5b52-4149-a064-4542798a81a8.JPG"
+    },
+    {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\673b7014-7ea0-4527-9da2-4d3b36a94a2d.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\673b7014-7ea0-4527-9da2-4d3b36a94a2d.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\95155a33-f0a6-446f-95ad-fe5be1f30acd.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\95155a33-f0a6-446f-95ad-fe5be1f30acd.JPG"
     },
     {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\9dc6fced-f7b8-4f55-b4af-4e57399a9d95.JPG",
@@ -31,6 +47,10 @@
     {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\b77698b8-8177-4bb7-b081-8c777b5a68cd.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\b77698b8-8177-4bb7-b081-8c777b5a68cd.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\de975b54-b171-4f07-8144-6789407a3e69.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\de975b54-b171-4f07-8144-6789407a3e69.JPG"
     },
     {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
