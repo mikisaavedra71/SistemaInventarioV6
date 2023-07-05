@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SistemaInventario.Modelos.ErrorViewModels;
 using SistemaInventario.Modelos.ViewModels;
 using System.Diagnostics;
 
