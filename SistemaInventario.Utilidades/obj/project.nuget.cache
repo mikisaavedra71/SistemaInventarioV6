@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "fMOQUJBI2I9+UsS77lx0hun/D4IF8Dkd6FdOpUOIfo52FblmyBHEpiXKcgwQo+LhI9zgxWdfH8QPYnwG6tr+ZQ==",
+  "dgSpecHash": "itcd7GPaqKUUNVrivOxqEOu6ohBCU08WkC9VlPo46gje2sn97Z9B71j7/nU1H7oHX9rEMcQQ7xQ9QIwwgmtc0w==",
   "success": true,
   "projectFilePath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.7\\microsoft.aspnetcore.cryptography.internal.7.0.7.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.7\\microsoft.aspnetcore.cryptography.keyderivation.7.0.7.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.7\\microsoft.aspnetcore.identity.ui.7.0.7.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.7\\microsoft.extensions.fileproviders.embedded.7.0.7.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.7\\microsoft.extensions.identity.core.7.0.7.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.7\\microsoft.extensions.identity.stores.7.0.7.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\mikis\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
