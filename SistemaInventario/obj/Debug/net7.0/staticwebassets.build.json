@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fDWL7TbuoPIcDdSP6AK6Xp2lmcnf+Ys+vQl/G8wrnA8=",
+  "Hash": "TLHFnNknkU/yhFFZLqTcQKI3u8ouFBOymrz/TSJExeY=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1358,6 +1358,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\usuario.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/usuario.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\usuario.js"
     },
     {
       "Identity": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
